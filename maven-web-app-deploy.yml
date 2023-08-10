@@ -1,4 +1,4 @@
----
+/*---
 apiVersion: apps/v1
 kind: Deployment
 metadata:
@@ -36,3 +36,4 @@ spec:
      targetPort: 8080
 ...
 
+*/
