@@ -6,7 +6,7 @@
   
   <h2> Call Us : + 91 - 99 85 39 66 77 </h2>
   <h2> Call Us : + 91 - 99 85 39 66 77 </h2>
-  <h2> Call Us : + 91 - 99 85 39 66 77 </h2>
+  
 
 <h1><font color='green'> hii guys good morning</h1>
 
